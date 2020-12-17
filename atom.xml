@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>HiWeb</title>
+  
+  <subtitle>网站副标题</subtitle>
+  <link href="https://www.hiweb.cc/atom.xml" rel="self"/>
+  
+  <link href="https://www.hiweb.cc/"/>
+  <updated>2020-12-17T06:37:07.000Z</updated>
+  <id>https://www.hiweb.cc/</id>
+  
+  <author>
+    <name>ShuoHui</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Centos7 中安装 Docker 和 Docker Compose</title>
+    <link href="https://www.hiweb.cc/articles/installing-docker-in-centos7/"/>
+    <id>https://www.hiweb.cc/articles/installing-docker-in-centos7/</id>
+    <published>2020-12-17T06:37:07.000Z</published>
+    <updated>2020-12-17T06:37:07.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;本文主要针对免费的社区版（Community Edition，缩写为 CE），而企业版（Enterprise Edition，缩写为 EE）包含了一些收费服务，对于个人开发者来说，社区版足矣！&lt;/p&gt;
+&lt;p&gt;环境：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Centos</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
