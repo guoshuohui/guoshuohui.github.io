@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.hiweb.cc/articles/installing-docker-in-centos7/</loc>
+    <loc>https://www.hiweb.cc/posts/installing-sentry-in-centos7/</loc>
     
-    <lastmod>2020-12-17</lastmod>
+    <lastmod>2020-12-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.hiweb.cc/posts/installing-docker-in-centos7/</loc>
+    
+    <lastmod>2020-12-19</lastmod>
     
   </url>
   
 
   <url>
     <loc>https://www.hiweb.cc/</loc>
-    <lastmod>2020-12-17</lastmod>
+    <lastmod>2020-12-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
